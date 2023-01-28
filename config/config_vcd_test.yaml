@@ -1,0 +1,24 @@
+#APP设备信息
+#deviceName: 127.0.0.1:21503
+#platformName: Android
+#platformVersion: 7.1.2
+#appPackage: com.android.browser
+#appActivity: com.android.browser.BrowserActivity
+
+#appium端口
+#appium: http://localhost:4723/wd/hub
+
+#邮箱发送的服务器、邮箱账号密码、发送人、收件人、主题
+smtpserver: smtp.qiye.aliyun.com
+user: huangxh@joysim.cn
+password: BUBLVWx5AU7mK4vA
+sender: huangxh@joysim.cn
+receiver:
+  - 'huangxh@joysim.cn'
+#  - '864927796@qq.com'
+subject: 测试报告
+
+msg_from: huangxh@joysim.cn <huangxh@joysim.cn>
+
+
+
